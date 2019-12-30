@@ -1,4 +1,4 @@
-//
+```java
 // Created by phoenix on 2019/12/30.
 /*
  * Question : To store English words, one method is to use linked lists and store a word letter by letter.
